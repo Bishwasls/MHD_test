@@ -2,7 +2,7 @@ This test is an MHD shocktube (Brio and Wu, 1988, Ideal MHD Riemann problem), wh
 
 (i) The left state is initialized as
 
-<img src="https://render.githubusercontent.com/render/math?math=(rho, v_x, v_y, v_z, B_y, B_z, p)_L = [1, 0, 0, 0, 1, 0, 1], -1 \lt x \leq 0">
+<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_{x}, v_{y}, v_{z}, B_{y}, B_{z}, p)_{L} = [1, 0, 0, 0, 1, 0, 1]"> , -1 \lt x \leq 0
 and
 
 (ii) the right state
