@@ -8,8 +8,8 @@ where,
 
 <img src="/images/conserv_var_mhd.png" width="800">
 
-Here e = p/(\gamma - 1) + \rho (u^2 + v^2 + w^2) / 2 + (Bx^2 + By^2 + Bz^2)/8\pi is the total energy per unit volume, p0 = p + (Bx^2 + By^2 + Bz^2)/8\pi is the total pressure, p and \rho are pressure and density, \bm{v} = [u, v, w]T is the velocity vector, \bm{B} = [Bx, By Bz]T is the magnetic field vector and \gamma 
-is the adiabatic index.
+Here <img src="https://render.githubusercontent.com/render/math?math=e = p/(\gamma - 1) +%2B \rho (u^2 +%2B v^2 +%2B w^2) / 2 +%2B (Bx^2 +%2B By^2 +%2B Bz^2)/8\pi">
+is the total energy per unit volume, <img src="https://render.githubusercontent.com/render/math?math=p0 = p + (Bx^2 + By^2 + Bz^2)/8\pi"> is the total pressure, p and <img src="https://render.githubusercontent.com/render/math?math=\rho"> are pressure and density, <img src="https://render.githubusercontent.com/render/math?math=\bm{v} = [u, v, w]T"> is the velocity vector, <img src="https://render.githubusercontent.com/render/math?math=\bm{B} = [Bx, By Bz]T"> is the magnetic field vector and <img src="https://render.githubusercontent.com/render/math?math=\gamma"> is the adiabatic index.
 
 
 In **1D** the ideal MHD equations can be written as 
