@@ -1,4 +1,4 @@
-# Here I will show some Standard MHD test results using Athena++ code developed at Princeton University.
+# Physics of some Standard MHD test results using Athena++ code.
 
 The ideal MHD equations in conservative form can be written as
 
