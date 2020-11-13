@@ -9,7 +9,7 @@ where,
 <img src="/images/conserv_var_mhd.png" width="800">
 
 Here <img src="https://render.githubusercontent.com/render/math?math=e = p/(\gamma - 1) +%2B \rho (u^2 +%2B v^2 +%2B w^2) / 2 +%2B (Bx^2 +%2B By^2 +%2B Bz^2)/8\pi">
-is the total energy per unit volume, <img src="https://render.githubusercontent.com/render/math?math=p_{0} = p +%2B (Bx^2 +%2B By^2 +%2B Bz^2)/8\pi"> is the total pressure, <img src="https://render.githubusercontent.com/render/math?math=p"> and <img src="https://render.githubusercontent.com/render/math?math=\rho"> are pressure and density, <img src="https://render.githubusercontent.com/render/math?math=\bf{v} = [u, v, w]^T"> is the velocity vector, <img src="https://render.githubusercontent.com/render/math?math=\bf{B} = [Bx, By Bz]^T"> is the magnetic field vector and <img src="https://render.githubusercontent.com/render/math?math=\gamma"> is the adiabatic index.
+is the total energy per unit volume, <img src="https://render.githubusercontent.com/render/math?math=p_{0} = p +%2B (Bx^2 +%2B By^2 +%2B Bz^2)/8\pi"> is the total pressure, <img src="https://render.githubusercontent.com/render/math?math=p"> and <img src="https://render.githubusercontent.com/render/math?math=\rho"> are pressure and density, <img src="https://render.githubusercontent.com/render/math?math=\bf{v} = [u, v, w]^T"> is the velocity vector, <img src="https://render.githubusercontent.com/render/math?math=\bf{B} = [Bx, By, Bz]^T"> is the magnetic field vector and <img src="https://render.githubusercontent.com/render/math?math=\gamma"> is the adiabatic index.
 
 
 In **1D** the ideal MHD equations can be written as 
