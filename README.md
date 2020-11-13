@@ -14,15 +14,14 @@ is the adiabatic index.
 
 In 1D the ideal MHD equations can be written as 
 
-![](/images/mhd_1d.png)
+<img src="/images/mhd_1d.png" width="200">
 
 where
 
-![](/images/conserv_1d.png)
+<img src="/images/conserv_1d.png" width="400">
 
 and
 
-![](/images/flux_1d.png)
-
+<img src="/images/flux_1d.png" width="500">
 
 It is clear that owing to the divergence-free condition, Bx = BxL = BxR = constant.
