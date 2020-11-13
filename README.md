@@ -1,6 +1,6 @@
 # Physics of some Standard MHD test results using Athena++ code.
 
-The ideal MHD equations in conservative form can be written as
+The **ideal MHD equations** in *conservative* form can be written as
 
 <img src="/images/mhd_conser.png" width="400">
 
@@ -12,7 +12,7 @@ Here e = p/(\gamma - 1) + \rho (u^2 + v^2 + w^2) / 2 + (Bx^2 + By^2 + Bz^2)/8\pi
 is the adiabatic index.
 
 
-In 1D the ideal MHD equations can be written as 
+In **1D** the ideal MHD equations can be written as 
 
 <img src="/images/mhd_1d.png" width="200">
 
