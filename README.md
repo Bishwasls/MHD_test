@@ -24,4 +24,4 @@ and
 
 <img src="/images/flux_1d.png" width="500">
 
-It is clear that owing to the divergence-free condition, Bx = BxL = BxR = constant.
+It is clear that owing to the divergence-free condition, <img src="https://render.githubusercontent.com/render/math?math=B_{x} = B_{x}^{L} = B_{x}^{R} = constant">.
