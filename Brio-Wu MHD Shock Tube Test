@@ -6,7 +6,7 @@ This test is an MHD shocktube (Brio and Wu, 1988, Ideal MHD Riemann problem), wh
 
 (ii) the right state
 
-(ρ, vx, vy, vz, By, Bz, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 < x 1
+(ρ, vx, vy, vz, By, Bz, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 < x < 1
 
 (iii) In addition, Bx = 0.75 and γ = 2.
 
