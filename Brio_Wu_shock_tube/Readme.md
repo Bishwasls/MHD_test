@@ -16,7 +16,7 @@ The hydrodynamic portion of the initial conditions are the same as for the Sod s
 This example tests whether the code can accurately represent the shocks, rarefactions, contact discontinuities, and the compound structures of MHD.
 The test is now a standard for MHD codes.
 
-Results computed with Athena using the "second order Roe solver" with 400 grid points (squares) and 10,000 grid points (solid line). The plot shows from left
+Results computed with Athena++ using the "second order Roe solver" with 10,000 grid points. The plot shows from left
 to right: a fast rarefaction (FR), a slow compound wave (CW), a contact discontinuity (CD), a slow shock (SS), and a fast rarefaction wave (FR). These results
 can be compared to Fig. 2 in the reference.
 
