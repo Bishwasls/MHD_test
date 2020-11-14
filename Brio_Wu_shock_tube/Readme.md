@@ -2,14 +2,14 @@ This test is an MHD shocktube (Brio and Wu, 1988, Ideal MHD Riemann problem), wh
 
 (i) The left state is initialized as
 
-<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_{x}, v_{y}, v_{z}, B_{y}, B_{z}, p)_{L} = [1, 0, 0, 0, 1, 0, 1] , -1 \lt x \leq 0">
+<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_{x}, v_{y}, v_{z}, B_{y}, B_{z}, p)_{L} = [1, 0, 0, 0, 1, 0, 1] , -0.5 \lt x \leq 0">
 and
 
 (ii) the right state
 
-<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_x, v_y, v_z, B_y, B_z, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 \lt x \lt 1">
+<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_x, v_y, v_z, B_y, B_z, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 \lt x \lt 0.5">
 
-(iii) In addition, <img src="https://render.githubusercontent.com/render/math?math=B_x = 0.75 \rm{and} \, \gamma = 2">.
+(iii) In addition, <img src="https://render.githubusercontent.com/render/math?math=B_x = 0.75 \, \rm{and} \, \gamma = 2">.
 
 The hydrodynamic portion of the initial conditions are the same as for the Sod shock tube problem.
 
