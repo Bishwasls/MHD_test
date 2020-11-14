@@ -7,9 +7,9 @@ and
 
 (ii) the right state
 
-(ρ, vx, vy, vz, By, Bz, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 < x < 1
+<img src="https://render.githubusercontent.com/render/math?math=(\rho, v_x, v_y, v_z, B_y, B_z, p)_R = [0.125, 0, 0, 0, -1, 0, 0.1], 0 \lt x \lt 1">
 
-(iii) In addition, Bx = 0.75 and γ = 2.
+(iii) In addition, <img src="https://render.githubusercontent.com/render/math?math=B_x = 0.75 and γ = 2">.
 
 The hydrodynamic portion of the initial conditions are the same as for the Sod shock tube problem.
 
