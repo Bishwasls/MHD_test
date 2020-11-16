@@ -11,7 +11,6 @@ and
 
 (iii) In addition, <img src="https://render.githubusercontent.com/render/math?math=B_x = 0.75 \, \rm{and} \, \gamma = 2">.
 
-The hydrodynamic portion of the initial conditions are the same as for the Sod shock tube problem.
 
 This example tests whether the code can accurately represent the shocks, rarefactions, contact discontinuities, and the compound structures of MHD.
 The test is now a standard for MHD codes.
@@ -34,7 +33,7 @@ The animation for the evolutions of primitive variables are shown below:
 <img src="./plots/BW_st_v.gif" width="400">
 <img src="./plots/BW_st_By.gif" width="400">
 
-Reference: </br>
+Reference: <br/>
 https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub <br/>
 https://github.com/PrincetonUniversity/athena-public-version/wiki/1D-Shock-Tube <br/>
 http://www.csun.edu/~jb715473/examples/mhd1d.htm (detailed description of the problem)
