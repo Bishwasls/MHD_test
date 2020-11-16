@@ -34,5 +34,5 @@ The animation for the evolutions of primitive variables are shown below:
 <img src="./plots/BW_st_By.gif" width="400">
 
 References:<br/>
-https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub
+https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub <br/>
 http://www.csun.edu/~jb715473/examples/mhd1d.htm (detailed description)
