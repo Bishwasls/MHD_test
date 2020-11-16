@@ -20,8 +20,12 @@ Results computed with Athena++ using the "second order Roe solver" with 10,000 g
 to right: a fast rarefaction (FR), a slow compound wave (CW), a contact discontinuity (CD), a slow shock (SS), and a fast rarefaction wave (FR). These results
 can be compared to Fig. 2 in the reference.
 <img src="./plots/rho.png" width="400">
+<img src="./plots/p.png" width="400">
+<img src="./plots/u.png" width="400">
+<img src="./plots/v.png" width="400">
+<img src="./plots/By.png" width="400">
 
-
+The animation for the evolutions of primitive variables are shown below:
 <img src="./plots/BW_st_rho.gif" width="400">
 <img src="./plots/BW_st_p.gif" width="400">
 <img src="./plots/BW_st_By.gif" width="400">
