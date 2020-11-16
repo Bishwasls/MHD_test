@@ -28,11 +28,9 @@ can be compared to Fig. 2 in the reference.
 The animation for the evolutions of primitive variables are shown below:
 <img src="./plots/BW_st_rho.gif" width="400">
 <img src="./plots/BW_st_p.gif" width="400">
-<img src="./plots/BW_st_By.gif" width="400">
 <img src="./plots/BW_st_u.gif" width="400">
 <img src="./plots/BW_st_v.gif" width="400">
-
-
+<img src="./plots/BW_st_By.gif" width="400">
 
 Reference:
 https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub
