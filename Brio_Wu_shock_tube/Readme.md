@@ -22,8 +22,8 @@ to right: a fast rarefaction (FR), a slow compound wave (CW), a contact disconti
 <img src="./plots/p.png" width="400">
 <img src="./plots/u.png" width="400">
 <img src="./plots/v.png" width="400">
-<img src="./plots/By.png" width="400">
-These results can be compared to Fig. 2 in the reference below. <br/>
+<img src="./plots/By.png" width="400"> <br/>
+These results can be compared to Fig. 2 in the reference (1) below. <br/>
 
 The animation for the evolutions of primitive variables are shown below:
 <br/>
@@ -34,6 +34,6 @@ The animation for the evolutions of primitive variables are shown below:
 <img src="./plots/BW_st_By.gif" width="400">
 
 Reference: <br/>
-https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub <br/>
-https://github.com/PrincetonUniversity/athena-public-version/wiki/1D-Shock-Tube <br/>
-http://www.csun.edu/~jb715473/examples/mhd1d.htm (detailed description of the problem)
+(1) https://www.sciencedirect.com/science/article/pii/0021999188901209?via%3Dihub (original paper) <br/>
+(2) https://github.com/PrincetonUniversity/athena-public-version/wiki/1D-Shock-Tube (athena++ page) <br/>
+(3) http://www.csun.edu/~jb715473/examples/mhd1d.htm (detailed description of the problem)
