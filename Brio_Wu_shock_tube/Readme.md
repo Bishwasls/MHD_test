@@ -15,15 +15,15 @@ and
 This example tests whether the code can accurately represent the shocks, rarefactions, contact discontinuities, and the compound structures of MHD.
 The test is now a standard for MHD codes.
 
-Results computed with Athena++ using the "second order Roe solver" with 10,000 grid points. The plot shows from left
-to right: a fast rarefaction (FR), a slow compound wave (CW), a contact discontinuity (CD), a slow shock (SS), and a fast rarefaction wave (FR). These results
-can be compared to Fig. 2 in the reference.
+Results computed with Athena++ using the "second order Roe solver" with 10,000 grid points at "t = 0.1" are shown below. The plot shows from left
+to right: a fast rarefaction (FR), a slow compound wave (CW), a contact discontinuity (CD), a slow shock (SS), and a fast rarefaction wave (FR).
 <br/>
 <img src="./plots/rho.png" width="400">
 <img src="./plots/p.png" width="400">
 <img src="./plots/u.png" width="400">
 <img src="./plots/v.png" width="400">
 <img src="./plots/By.png" width="400">
+These results can be compared to Fig. 2 in the reference below. <br/>
 
 The animation for the evolutions of primitive variables are shown below:
 <br/>
