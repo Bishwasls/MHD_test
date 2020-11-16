@@ -19,7 +19,12 @@ The test is now a standard for MHD codes.
 Results computed with Athena++ using the "second order Roe solver" with 10,000 grid points. The plot shows from left
 to right: a fast rarefaction (FR), a slow compound wave (CW), a contact discontinuity (CD), a slow shock (SS), and a fast rarefaction wave (FR). These results
 can be compared to Fig. 2 in the reference.
-<img src="./plots/rho.eps" width="400">
+<img src="./plots/BW_st_rho.gif" width="400">
+<img src="./plots/BW_st_p.gif" width="400">
+<img src="./plots/BW_st_By.gif" width="400">
+<img src="./plots/BW_st_u.gif" width="400">
+<img src="./plots/BW_st_v.gif" width="400">
+
 
 
 Reference:
