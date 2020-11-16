@@ -19,6 +19,7 @@ x = A.data(:,2);
 for ii = 3:10
     p_variable = A.data(:,ii);
     
+    %=================
     if (ii == 3)
         y = '\rho';
     elseif (ii == 4)
@@ -36,6 +37,7 @@ for ii = 3:10
     else 
         y = 'Bz';
     end
+    %=================
     
     plot(x, p_variable, 'r.','LineWidth',1)
 
@@ -46,7 +48,3 @@ for ii = 3:10
     print(gcf, sprintf('%s%s%s','./BW_st/', y, '.eps'),'-depsc','-r300');
     pause
 end
-
-
-
-

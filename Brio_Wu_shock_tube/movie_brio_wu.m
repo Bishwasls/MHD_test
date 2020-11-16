@@ -3,10 +3,6 @@ close all;
 clear;
 clc;
 
-% % video setup 
-% v = VideoWriter('./BW_st/BW_st.avi');
-% open(v);
-
 for ii = 3:10   
     %====================
     if (ii == 3)
@@ -53,7 +49,7 @@ for ii = 3:10
 
         frame = getframe(gcf);
         writeVideo(v, frame);
-        pause(0.01)
+        pause(0.1)
     end 
     close(v)
     
