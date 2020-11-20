@@ -5,4 +5,4 @@ for file in *.avi; do
     ffmpeg -i "{file}" "{file%.*}.gif";
 done
 
-echo done converting movie to gif
+echo converted movie to gif
